@@ -1,0 +1,496 @@
+{
+  "id": 69,
+  "bn": "আল হাক্বক্বাহ",
+  "eng": "Al-Haqqah",
+  "engMeaning": "The Reality",
+  "bnMeaning": "নিশ্চিত সত্য",
+  "Makkhi": true,
+  "audioSrc": [
+    {
+      "name": "Nasser-Al-Qatami",
+      "src": "https://cdn.jsdelivr.net/gh/darkcat-sudo/ch@main/fvaudio/Surah-Al-Haqqah-Nasser-Al-Qatami.mp3"
+    },
+    {
+      "name": "yasser-al-dossari",
+      "src": "https://media.blubrry.com/muslim_central_quran/podcasts.qurancentral.com/yasser-al-dossari/yasser-al-dossari-069.mp3"
+    }
+  ],
+  "totalVerseCount": 52,
+  "allVerse": [
+    {
+      "id": 1,
+      "arb": "اَلْحَـآقَّةُ  ۙ",
+      "pronunciationBn": "আলহাক্কাহ।",
+      "eng": "The Inevitable Hour!",
+      "bn": "অবশ্যম্ভাবী ঘটনা (কিয়ামত)।",
+      "endTime": {
+        "Nasser-Al-Qatami": 6.9
+      }
+    },
+    {
+      "id": 2,
+      "arb": "مَا الْحَـآقَّةُ‌  ۚ",
+      "pronunciationBn": "মাল হাক্কাহ ।",
+      "eng": "What is the Inevitable Hour?",
+      "bn": "অবশ্যম্ভাবী ঘটনা কী?",
+      "endTime": {
+        "Nasser-Al-Qatami": 12.8
+      }
+    },
+    {
+      "id": 3,
+      "arb": "وَمَاۤ اَدْرٰٮكَ مَا الْحَــآقَّةُ  ؕ",
+      "pronunciationBn": "ওয়ামাআদরা-কা মাল হাক্কাহ ।",
+      "eng": "And what will make you realize what the Inevitable Hour is?",
+      "bn": "আর কিসে তোমাকে জানাবে অবশ্যম্ভাবী ঘটনা কী?",
+      "endTime": {
+        "Nasser-Al-Qatami": 19.3
+      }
+    },
+    {
+      "id": 4,
+      "arb": "كَذَّبَتْ ثَمُوْدُ وَعَادٌۢ بِالْقَارِعَةِ",
+      "pronunciationBn": "কাযযাবাত ছামূদুওয়া ‘আ-দুম বিল কা-রি‘আহ।",
+      "eng": "˹Both˺ Thamûd and ’Ȃd denied the Striking Disaster.<sup foot_note=77541>1</sup>",
+      "bn": "সামূদ ও ‘আদ সম্প্রদায় সজোরে আঘাতকারী (কিয়ামত)কে অস্বীকার করেছিল।",
+      "endTime": {
+        "Nasser-Al-Qatami": 24.6
+      }
+    },
+    {
+      "id": 5,
+      "arb": "فَاَمَّا ثَمُوْدُ فَاُهْلِكُوْا  بِالطَّاغِيَةِ",
+      "pronunciationBn": "ফাআম্মা- ছামূদুফাউহলিকূবিত্তা-গিয়াহ।",
+      "eng": "As for Thamûd, they were destroyed by an overwhelming blast.",
+      "bn": "আর সামূদ সম্প্রদায়, তাদেরকে বিকট শব্দ দ্বারা ধ্বংস করা হয়েছিল।",
+      "endTime": {
+        "Nasser-Al-Qatami": 29.7
+      }
+    },
+    {
+      "id": 6,
+      "arb": "وَاَمَّا عَادٌ فَاُهْلِكُوْا بِرِيْحٍ صَرْصَرٍ عَاتِيَةٍۙ",
+      "pronunciationBn": "ওয়া আম্মা- ‘আ-দুন ফাউহলিকূবিরীহিন সারসারিন ‘আ-তিয়াহ।",
+      "eng": "And as for ’Ȃd, they were destroyed by a furious, bitter wind",
+      "bn": "আর ‘আদ সম্প্রদায়, তাদেরকে ধ্বংস করা হয়েছিল প্রচন্ড ঠান্ডা ঝঞ্ঝাবায়ু দ্বারা।",
+      "endTime": {
+        "Nasser-Al-Qatami": 37.6
+      }
+    },
+    {
+      "id": 7,
+      "arb": "سَخَّرَهَا عَلَيْهِمْ سَبْعَ لَيَالٍ وَّثَمٰنِيَةَ اَيَّامٍۙ حُسُوْمًا ۙ فَتَرَى الْقَوْمَ فِيْهَا صَرْعٰىۙ كَاَنَّهُمْ اَعْجَازُ نَخْلٍ خَاوِيَةٍ‌ ۚ",
+      "pronunciationBn": "ছাখখারাহা-‘আলাইহিম ছাব‘আ লাইয়া-লিওঁ ওয়া ছামা-নিয়াতা আইইয়া-মিন হুছূমান ফাতারাল কাওমা ফীহা-সার‘আ- কাআন্নাহুম আ‘জা-ঝুনাখলিন খা-বিয়াহ।",
+      "eng": "which Allah unleashed on them non-stop for seven nights and eight days, so that you would have seen its people lying dead like trunks of uprooted palm trees.",
+      "bn": "তিনি তাদের উপর তা সাত রাত ও আট দিন বিরামহীনভাবে চাপিয়ে দিয়েছিলেন। ফলে তুমি উক্ত সম্প্রদায়কে সেখানে লুটিয়ে পড়া অবস্থায় দেখতে পেতে যেন তারা সারশূন্য খেজুর গাছের মত।",
+      "endTime": {
+        "Nasser-Al-Qatami": 53.6
+      }
+    },
+    {
+      "id": 8,
+      "arb": "فَهَلْ تَرٰى لَهُمْ مِّنْۢ بَاقِيَةٍ",
+      "pronunciationBn": "ফাহাল তারা-লাহুম মিম বা-কিয়াহ।",
+      "eng": "Do you see any of them left alive?",
+      "bn": "তারপর তুমি কি তাদের জন্য কোন অবশিষ্ট কিছু দেখতে পাও?",
+      "endTime": {
+        "Nasser-Al-Qatami": 58.5
+      }
+    },
+    {
+      "id": 9,
+      "arb": "وَجَآءَ فِرْعَوْنُ وَمَنْ قَبْلَهٗ  وَالْمُؤْتَفِكٰتُ بِالْخَـاطِئَةِ‌ۚ",
+      "pronunciationBn": "ওয়া জাআ ফির‘আওনুওয়া মান কালাহূওয়াল মু’তাফিকা-তুবিল খা- তিআহ।",
+      "eng": "Also, Pharaoh and those before him, and ˹the people of˺ the overturned cities ˹of Lot˺ indulged in sin,",
+      "bn": "আর ফির‘আউন, তার পূর্ববর্তীরা এবং উল্টে দেয়া জনপদবাসীরা পাপাচারে লিপ্ত হয়েছিল।",
+      "endTime": {
+        "Nasser-Al-Qatami": 67.4
+      }
+    },
+    {
+      "id": 10,
+      "arb": "فَعَصَوْا رَسُوْلَ رَبِّهِمْ  فَاَخَذَهُمْ اَخْذَةً رَّابِيَةً",
+      "pronunciationBn": "ফা‘আসাও রাছূলা রাব্বিহিম ফাআখাযাহুম আখযাতাররা-বিয়াহ।",
+      "eng": "each disobeying their Lord’s messenger, so He seized them with a crushing grip.",
+      "bn": "আর তারা তাদের রবের রাসূলকে অমান্য করেছিল। সুতরাং তিনি তাদেরকে অত্যন্ত কঠোরভাবে পাকড়াও করলেন।",
+      "endTime": {
+        "Nasser-Al-Qatami": 74.1
+      }
+    },
+    {
+      "id": 11,
+      "arb": "اِنَّا لَمَّا طَغَا الْمَآءُ حَمَلْنٰكُمْ فِى الْجَارِيَةِ  ۙ",
+      "pronunciationBn": "ইন্না- লাম্মা-তাগালমাউ হামালনা-কুম ফিল জা-রিয়াহ।",
+      "eng": "Indeed, when the floodwater had overflowed, We carried you<sup foot_note=77542>1</sup> in the floating Ark ˹with Noah˺,",
+      "bn": "যখন জলোচ্ছ্বাস হল, অবশ্যই তখন আমি তোমাদেরকে নৌযানে আরোহণ করিয়েছি।",
+      "endTime": {
+        "Nasser-Al-Qatami": 83.5
+      }
+    },
+    {
+      "id": 12,
+      "arb": "لِنَجْعَلَهَا لَـكُمْ تَذْكِرَةً وَّتَعِيَهَاۤ اُذُنٌ وَّاعِيَةٌ",
+      "pronunciationBn": "লিনাজ‘আলাহা-লাকুম তাযকিরাতাওঁ ওয়া তা‘ইয়াহাউযু নুওঁ ওয়া-‘ইয়াহ।",
+      "eng": "so that We may make this a reminder to you, and that attentive ears may grasp it.",
+      "bn": "একে তোমাদের নিমিত্তে উপদেশ বানানোর জন্য এবং সংরক্ষণকারী কান তা সংরক্ষণ করার জন্য।",
+      "endTime": {
+        "Nasser-Al-Qatami": 91
+      }
+    },
+    {
+      "id": 13,
+      "arb": "فَاِذَا نُفِخَ فِى الصُّوْرِ نَفْخَةٌ وَّاحِدَةٌ ۙ",
+      "pronunciationBn": "ফাইযা- নুফিখা ফিসসুরি নাফখাতুওঁ ওয়া- হিদাহ।",
+      "eng": "At last, when the Trumpet will be blown with one blast,",
+      "bn": "অতঃপর যখন শিংগায় ফুঁক দেয়া হবে- একটি মাত্র ফুঁক।",
+      "endTime": {
+        "Nasser-Al-Qatami": 97.4
+      }
+    },
+    {
+      "id": 14,
+      "arb": "وَحُمِلَتِ الْاَرْضُ وَ الْجِبَالُ فَدُكَّتَا دَكَّةً وَّاحِدَةً ۙ",
+      "pronunciationBn": "ওয়া হুমিলাতিল আরদুওয়াল জিবা-লুফাদুক্কাতা- দাক্কাতাওঁ ওয়া-হিদাহ।",
+      "eng": "and the earth and mountains will be lifted up and crushed with one blow,",
+      "bn": "আর যমীন ও পর্বতমালাকে সরিয়ে নেয়া হবে এবং মাত্র একটি আঘাতে এগুলো চূর্ণ-বিচূর্ণ হয়ে যাবে।",
+      "endTime": {
+        "Nasser-Al-Qatami": 105.3
+      }
+    },
+    {
+      "id": 15,
+      "arb": "فَيَوْمَٮِٕذٍ وَّقَعَتِ الْوَاقِعَةُ  ۙ",
+      "pronunciationBn": "ফাইয়াওমাইযিওঁ ওয়াকা‘আতিল ওয়া-কি‘আহ।",
+      "eng": "on that Day the Inevitable Event will have come to pass.",
+      "bn": "ফলে সে দিন মহাঘটনা সংঘটিত হবে।",
+      "endTime": {
+        "Nasser-Al-Qatami": 111.5
+      }
+    },
+    {
+      "id": 16,
+      "arb": "وَانْشَقَّتِ السَّمَآءُ فَهِىَ يَوْمَٮِٕذٍ وَّاهِيَةٌ  ۙ",
+      "pronunciationBn": "ওয়ানশাক্কাতিছছামাউ ফাহিয়া ইয়াওমাইযিওঁ ওয়া-হিয়াহ।",
+      "eng": "The sky will then be so torn that it will be frail,",
+      "bn": "আর আসমান বিদীর্ণ হয়ে যাবে। ফলে সেদিন তা হয়ে যাবে দুর্বল বিক্ষিপ্ত।",
+      "endTime": {
+        "Nasser-Al-Qatami": 122.3
+      }
+    },
+    {
+      "id": 17,
+      "arb": "وَّالْمَلَكُ عَلٰٓى اَرْجَآٮِٕهَا ‌ؕ وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَٮِٕذٍ ثَمٰنِيَةٌ ؕ",
+      "pronunciationBn": "ওয়াল মালাকু‘আলাআরজাইহা- ওয়া ইয়াহমিলু‘আরশা রাব্বিকা ফাওকাহুম ইয়াওমাইযিন ছামা-নিয়াহ।",
+      "eng": "with the angels on its sides. On that Day eight ˹mighty angels˺ will bear the Throne of your Lord above them.",
+      "bn": "ফেরেশতাগণ আসমানের বিভিন্ন প্রান্তে থাকবে। সেদিন তোমার রবের আরশকে আটজন ফেরেশতা তাদের উর্ধ্বে বহন করবে।",
+      "endTime": {
+        "Nasser-Al-Qatami": 137.7
+      }
+    },
+    {
+      "id": 18,
+      "arb": "يَوْمَٮِٕذٍ  تُعْرَضُوْنَ لَا تَخْفٰى مِنْكُمْ خَافِيَةٌ",
+      "pronunciationBn": "ইয়াওমাইযিন তু‘রাদূনা লা- তাখফা- মিনকুম খা-ফিয়াহ।",
+      "eng": "You will then be presented ˹before Him for judgment˺, and none of your secrets will stay hidden.",
+      "bn": "সেদিন তোমাদেরকে উপস্থিত করা হবে। তোমাদের কোন গোপনীয়তাই গোপন থাকবে না।",
+      "endTime": {
+        "Nasser-Al-Qatami": 161
+      }
+    },
+    {
+      "id": 19,
+      "arb": "فَاَمَّا مَنْ اُوْتِىَ  كِتٰبَهٗ بِيَمِيْنِهٖۙ فَيَقُوْلُ هَآؤُمُ اقْرَءُوْا كِتٰبِيَهْ‌ۚ",
+      "pronunciationBn": "ফাআম্মা-মান ঊতিয়া কিতা-বাহূবিইয়ামীনিহী ফাইয়াকূলুহাউমুকরাঊ কিতা-বিয়াহ।",
+      "eng": "As for those given their records in their right hand, they will cry ˹happily˺, “Here ˹everyone˺! Read my record!",
+      "bn": "তখন যার আমলনামা তার ডান হাতে দেয়া হবে সে বলবে, ‘নাও, আমার আমলনামা পড়ে দেখ’।",
+      "endTime": {
+        "Nasser-Al-Qatami": 179.7
+      }
+    },
+    {
+      "id": 20,
+      "arb": "اِنِّىْ  ظَنَنْتُ اَنِّىْ مُلٰقٍ حِسَابِيَهْ‌ۚ",
+      "pronunciationBn": "ইন্নী জানানতুআন্নী মুলা-কিন হিছা-বিয়াহ।",
+      "eng": "I surely knew I would face my reckoning.”",
+      "bn": "‘আমার দৃঢ় বিশ্বাস ছিল যে, আমি আমার হিসাবের সম্মুখীন হব’।",
+      "endTime": {
+        "Nasser-Al-Qatami": 189
+      }
+    },
+    {
+      "id": 21,
+      "arb": "فَهُوَ فِىْ عِيْشَةٍ رَّاضِيَةٍۙ",
+      "pronunciationBn": "ফাহুওয়া ফী ‘ঈশাতিররা-দিয়াহ।",
+      "eng": "They will be in a life of bliss,",
+      "bn": "সুতরাং সে সন্তোষজনক জীবনে থাকবে।",
+      "endTime": {
+        "Nasser-Al-Qatami": 193.4
+      }
+    },
+    {
+      "id": 22,
+      "arb": "فِىْ جَنَّةٍ عَالِيَةٍۙ",
+      "pronunciationBn": "ফী জান্নাতিন ‘আ-লিয়াহ।",
+      "eng": "in an elevated Garden,",
+      "bn": "সুউচ্চ জান্নাতে,",
+      "endTime": {
+        "Nasser-Al-Qatami": 207
+      }
+    },
+    {
+      "id": 23,
+      "arb": "قُطُوْفُهَا دَانِيَةٌ",
+      "pronunciationBn": "কুতূফুহা- দা-নিয়াহ।",
+      "eng": "whose fruit will hang within reach.",
+      "bn": "তার ফলসমূহ নিকটবর্তী থাকবে।",
+      "endTime": {
+        "Nasser-Al-Qatami": 211.1
+      }
+    },
+    {
+      "id": 24,
+      "arb": "كُلُوْا وَاشْرَبُوْا هَنِيْٓـــًٔا ۢ بِمَاۤ اَسْلَفْتُمْ فِى الْاَيَّامِ الْخَـالِيَةِ",
+      "pronunciationBn": "কুলূওয়াশরাবূহানীআম বিমাআছলাফতুম ফিল আইয়া-মিল খা-লিয়াহ।",
+      "eng": "˹They will be told,˺ “Eat and drink joyfully for what you did in the days gone by.”",
+      "bn": "(বলা হবে,) ‘বিগত দিনসমূহে তোমরা যা অগ্রে প্রেরণ করেছ তার বিনিময়ে তোমরা তৃপ্তি সহকারে খাও ও পান কর’।",
+      "endTime": {
+        "Nasser-Al-Qatami": 236
+      }
+    },
+    {
+      "id": 25,
+      "arb": "وَاَمَّا مَنْ اُوْتِىَ كِتٰبَهٗ بِشِمَالِهٖ  ۙ فَيَقُوْلُ يٰلَيْتَنِىْ لَمْ اُوْتَ كِتٰبِيَهْ‌ۚ",
+      "pronunciationBn": "ওয়া আম্মা-মান ঊতিয়া কিতা-বাহূবিশিমা-লিহী ফাইয়াকূলুইয়া- লাইতানী লাম ঊতা কিতা-বিয়াহ।",
+      "eng": "And as for those given their record in their left hand, they will cry ˹bitterly˺, “I wish I had not been given my record,",
+      "bn": "কিন্তু যার আমলনামা তার বাম হাতে দেয়া হবে সে বলবে, ‘হায়, আমাকে যদি আমার আমলনামা দেয়া না হত’!",
+      "endTime": {
+        "Nasser-Al-Qatami": 263.8
+      }
+    },
+    {
+      "id": 26,
+      "arb": "وَلَمْ اَدْرِ مَا حِسَابِيَهْ‌ۚ",
+      "pronunciationBn": "ওয়া লাম আদরি মা-হিছা-বিয়াহ।",
+      "eng": "nor known anything of my reckoning!",
+      "bn": "‘আর যদি আমি না জানতাম আমার হিসাব’!",
+      "endTime": {
+        "Nasser-Al-Qatami": 267.9
+      }
+    },
+    {
+      "id": 27,
+      "arb": "يٰلَيْتَهَا كَانَتِ الْقَاضِيَةَ‌  ۚ",
+      "pronunciationBn": "ইয়া-লাইতাহা- কা-নাতিল কা-দিয়াহ।",
+      "eng": "I wish death was the end!",
+      "bn": "‘হায়, মৃত্যুই যদি আমার চূড়ান্ত ফয়সালা হত’!",
+      "endTime": {
+        "Nasser-Al-Qatami": 280
+      }
+    },
+    {
+      "id": 28,
+      "arb": "مَاۤ  اَغْنٰى عَنِّىْ مَالِيَهْۚ",
+      "pronunciationBn": "মা আগনা- ‘আন্নী মা- লিয়াহ।",
+      "eng": "My wealth has not benefited me!",
+      "bn": "‘আমার সম্পদ আমার কোন কাজেই আসল না!’",
+      "endTime": {
+        "Nasser-Al-Qatami": 296
+      }
+    },
+    {
+      "id": 29,
+      "arb": "هَلَكَ عَنِّىْ سُلْطٰنِيَهْ‌ۚ",
+      "pronunciationBn": "হালাকা ‘আন্নী ছুলতা-নিয়াহ।",
+      "eng": "My authority has been stripped from me.”",
+      "bn": "‘আমার ক্ষমতাও আমার থেকে চলে গেল!",
+      "endTime": {
+        "Nasser-Al-Qatami": 305.6
+      }
+    },
+    {
+      "id": 30,
+      "arb": "خُذُوْهُ فَغُلُّوْهُ  ۙ",
+      "pronunciationBn": "খুযূহু ফাগুললূহ।",
+      "eng": "˹It will be said,˺ “Seize and shackle them,",
+      "bn": "(বলা হবে,) ‘তাকে ধর অতঃপর তাকে বেড়ি পরিয়ে দাও।’",
+      "endTime": {
+        "Nasser-Al-Qatami": 322.1
+      }
+    },
+    {
+      "id": 31,
+      "arb": "ثُمَّ الْجَحِيْمَ صَلُّوْهُ ۙ",
+      "pronunciationBn": "ছু ম্মাল জাহীমা সাললূহ।",
+      "eng": "then burn them in Hell,",
+      "bn": "‘তারপর তাকে তোমরা নিক্ষেপ কর জাহান্নামে’।",
+      "endTime": {
+        "Nasser-Al-Qatami": 327.4
+      }
+    },
+    {
+      "id": 32,
+      "arb": "ثُمَّ فِىْ سِلْسِلَةٍ ذَرْعُهَا سَبْعُوْنَ ذِرَاعًا فَاسْلُكُوْهُ ؕ",
+      "pronunciationBn": "ছু ম্মা ফী ছিলছিলাতিন যার‘উহা- ছাব‘ঊনা যিরা-‘আন ফাছলুকূহ।",
+      "eng": "then tie them up with chains seventy arms long.",
+      "bn": "‘তারপর তাকে বাঁধ এমন এক শেকলে যার দৈর্ঘ্য হবে সত্তর হাত।’",
+      "endTime": {
+        "Nasser-Al-Qatami": 350.7
+      }
+    },
+    {
+      "id": 33,
+      "arb": "اِنَّهٗ كَانَ لَا يُؤْمِنُ  بِاللّٰهِ الْعَظِيْمِۙ",
+      "pronunciationBn": "ইন্নাহূকা-না লা-ইউ’মিনুবিল্লা-হিল ‘আজীম।",
+      "eng": "For they never had faith in Allah, the Greatest,",
+      "bn": "সে তো মহান আল্লাহর প্রতি ঈমান পোষণ করত না,",
+      "endTime": {
+        "Nasser-Al-Qatami": 367.7
+      }
+    },
+    {
+      "id": 34,
+      "arb": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِؕ",
+      "pronunciationBn": "ওয়ালা-ইয়াহদ্দু ‘আলা- তা‘আ-মিল মিছকীন।",
+      "eng": "nor encouraged the feeding of the poor.",
+      "bn": "আর মিসকীনকে খাদ্যদানে উৎসাহিত করত না।",
+      "endTime": {
+        "Nasser-Al-Qatami": 374.3
+      }
+    },
+    {
+      "id": 35,
+      "arb": "فَلَيْسَ لَـهُ الْيَوْمَ هٰهُنَا حَمِيْمٌۙ",
+      "pronunciationBn": "ফালাইছা লাহুল ইয়াওমা হা-হুনা- হামীম।",
+      "eng": "So this Day they will have no close friend here,",
+      "bn": "অতএব আজ এখানে তার কোন অন্তরঙ্গ বন্ধু থাকবে না।",
+      "endTime": {
+        "Nasser-Al-Qatami": 380.8
+      }
+    },
+    {
+      "id": 36,
+      "arb": "وَّلَا طَعَامٌ اِلَّا مِنْ  غِسْلِيْنٍۙ",
+      "pronunciationBn": "ওয়ালা- তা‘আ-মুন ইল্লা-মিন গিছলীন।",
+      "eng": "nor any food except ˹oozing˺ pus,",
+      "bn": "আর ক্ষত-নিংসৃত পূঁজ ছাড়া কোন খাদ্য থাকবে না,",
+      "endTime": {
+        "Nasser-Al-Qatami": 408
+      }
+    },
+    {
+      "id": 37,
+      "arb": "لَّا يَاْكُلُهٗۤ اِلَّا الْخٰطِئُوْنَ",
+      "pronunciationBn": "লা-ইয়া’কুলুহূইল্লাল খা-তিঊন।",
+      "eng": "which none will eat except the evildoers.”",
+      "bn": "অপরাধীরাই শুধু তা খাবে।",
+      "endTime": {
+        "Nasser-Al-Qatami": 425.5
+      }
+    },
+    {
+      "id": 38,
+      "arb": "فَلَاۤ اُقْسِمُ بِمَا  تُبْصِرُوْنَۙ",
+      "pronunciationBn": "ফালাউকছিমুবিমা-তুবসিরূন।",
+      "eng": "Now, I do swear by whatever you see,",
+      "bn": "অতএব তোমরা যা দেখছ, আমি তার কসম করছি।"
+    },
+    {
+      "id": 39,
+      "arb": "وَمَا لَا تُبْصِرُوْنَۙ",
+      "pronunciationBn": "ওয়ামা-লা-তুবসিরূন।",
+      "eng": "and whatever you cannot see!",
+      "bn": "আর যা তোমরা দেখছ না তারও,"
+    },
+    {
+      "id": 40,
+      "arb": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ  كَرِيْمٍۚ ۙ",
+      "pronunciationBn": "ইন্নাহূলাকাওলুরাছূলিন কারীম।",
+      "eng": "Indeed, this ˹Quran˺ is the recitation of a noble Messenger.",
+      "bn": "নিশ্চয়ই এটি এক সম্মানিত রাসূলের বাণী।"
+    },
+    {
+      "id": 41,
+      "arb": "وَّمَا هُوَ بِقَوْلِ شَاعِرٍ‌ؕ قَلِيْلًا مَّا تُؤْمِنُوْنَۙ",
+      "pronunciationBn": "ওয়ামা-হুওয়া বিকাওলি শা-‘ইরিন কালীলাম মা-তু’মিনূন।",
+      "eng": "It is not the prose of a poet ˹as you claim˺, ˹yet˺ you hardly have any faith.",
+      "bn": "আর এটি কোন কবির কথা নয়। তোমরা কমই বিশ্বাস কর।"
+    },
+    {
+      "id": 42,
+      "arb": "وَلَا بِقَوْلِ كَاهِنٍ‌ؕ قَلِيْلًا مَّا تَذَكَّرُوْنَؕ",
+      "pronunciationBn": "ওয়ালা-বিকাওলি কা- হিনিন কালীলাম মা-তাযাক্কারূন।",
+      "eng": "Nor is it the mumbling of a fortune-teller, ˹yet˺ you are hardly mindful.",
+      "bn": "আর কোন গণকের কথাও নয়। তোমরা কমই উপদেশ গ্রহণ কর।"
+    },
+    {
+      "id": 43,
+      "arb": "تَنْزِيْلٌ مِّنْ  رَّبِّ الْعٰلَمِيْنَ",
+      "pronunciationBn": "তানঝীলুম মিররাব্বিল ‘আ-লামীন।",
+      "eng": "˹It is˺ a revelation from the Lord of all worlds.",
+      "bn": "এটি সৃষ্টিকুলের রবের পক্ষ থেকে নাযিলকৃত।"
+    },
+    {
+      "id": 44,
+      "arb": "وَلَوْ تَقَوَّلَ عَلَيْنَا بَعْضَ الْاَقَاوِيْلِۙ",
+      "pronunciationBn": "ওয়ালাও তাকাওওয়ালা ‘আলাইনা-বা‘দাল আকা-য়ীল।",
+      "eng": "Had the Messenger made up something in Our Name,",
+      "bn": "যদি সে আমার নামে কোন মিথ্যা রচনা করত,"
+    },
+    {
+      "id": 45,
+      "arb": "لَاَخَذْنَا مِنْهُ بِالْيَمِيْنِۙ",
+      "pronunciationBn": "লাআখাযনা-মিনহু বিলইয়ামীন।",
+      "eng": "We would have certainly seized him by his right hand,",
+      "bn": "তবে আমি তার ডান হাত পাকড়াও করতাম।"
+    },
+    {
+      "id": 46,
+      "arb": "ثُمَّ لَقَطَعْنَا مِنْهُ الْوَتِيْنَ  ۖ",
+      "pronunciationBn": "ছু ম্মা লাকাতা‘না-মিনহুল ওয়াতীন।",
+      "eng": "then severed his aorta,",
+      "bn": "তারপর অবশ্যই আমি তার হৃদপিন্ডের শিরা কেটে ফেলতাম।"
+    },
+    {
+      "id": 47,
+      "arb": "فَمَا  مِنْكُمْ مِّنْ اَحَدٍ عَنْهُ حَاجِزِيْنَ",
+      "pronunciationBn": "ফামা-মিনকুম মিন আহাদিন ‘আনহু হা-জিঝীন।",
+      "eng": "and none of you could have shielded him ˹from Us˺!",
+      "bn": "অতঃপর তোমাদের মধ্যে কেউই তাকে রক্ষা করার থাকত না।"
+    },
+    {
+      "id": 48,
+      "arb": "وَاِنَّهٗ لَتَذْكِرَةٌ لِّلْمُتَّقِيْنَ",
+      "pronunciationBn": "ওয়া ইন্নাহূলাতাযকিরাতুল লিলমুত্তাকীন।",
+      "eng": "Indeed, this ˹Quran˺ is a reminder to those mindful ˹of Allah˺.",
+      "bn": "আর এটিতো মুত্তাকীদের জন্য এক নিশ্চিত উপদেশ।"
+    },
+    {
+      "id": 49,
+      "arb": "وَاِنَّا لَنَعْلَمُ اَنَّ مِنْكُمْ مُّكَذِّبِيْنَ",
+      "pronunciationBn": "ওয়া ইন্না-লানা‘লামুআন্না মিনকুম মুকাযযিবীন।",
+      "eng": "And We certainly know that some of you will persist in denial,",
+      "bn": "আর আমি অবশ্যই জানি যে, তোমাদের মধ্যে কতক রয়েছে মিথ্যারোপকারী।"
+    },
+    {
+      "id": 50,
+      "arb": "وَاِنَّهٗ لَحَسْرَةٌ عَلَى الْكٰفِرِيْنَ",
+      "pronunciationBn": "ওয়া ইন্নাহূলাহাছরাতুন ‘আলাল কা-ফিরীন।",
+      "eng": "and it will surely be a source of regret for the disbelievers.",
+      "bn": "আর এটি নিশ্চয় কাফিরদের জন্য এক নিশ্চিত অনুশোচনার কারণ।"
+    },
+    {
+      "id": 51,
+      "arb": "وَاِنَّهٗ لَحَـقُّ الْيَقِيْنِ",
+      "pronunciationBn": "ওয়া ইন্নাহূলাহাক্কুল ইয়াকীন।",
+      "eng": "And indeed, this ˹Quran˺ is the absolute truth.",
+      "bn": "আর নিশ্চয় এটি সুনিশ্চিত সত্য।"
+    },
+    {
+      "id": 52,
+      "arb": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيْمِ",
+      "pronunciationBn": "ফাছাব্বিহবিছমি রাব্বিকাল ‘আজীম।",
+      "eng": "So glorify the Name of your Lord, the Greatest.",
+      "bn": "অতএব তুমি তোমার মহান রবের নামে তাসবীহ পাঠ কর।"
+    }
+  ]
+}

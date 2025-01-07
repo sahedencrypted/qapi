@@ -1,0 +1,1028 @@
+[
+    {
+      "id": 1,
+      "bn": "আল ফাতিহা",
+      "eng": "Al-Fatihah",
+      "engMeaning": "The Opener",
+      "bnMeaning": "সূচনা",
+      "Makkhi": true,
+      "totalVerseCount": 7
+    },
+    {
+      "id": 2,
+      "bn": "আল বাকারা",
+      "eng": "Al-Baqarah",
+      "engMeaning": "The Cow",
+      "bnMeaning": "বকনা-বাছুর",
+      "Makkhi": false,
+      "totalVerseCount": 286
+    },
+    {
+      "id": 3,
+      "bn": "আল ইমরান",
+      "eng": "Ali 'Imran",
+      "engMeaning": "Family of Imran",
+      "bnMeaning": "ইমরানের পরিবার",
+      "Makkhi": false,
+      "totalVerseCount": 200
+    },
+    {
+      "id": 4,
+      "bn": "আন নিসা",
+      "eng": "An-Nisa",
+      "engMeaning": "The Women",
+      "bnMeaning": "নারী",
+      "Makkhi": false,
+      "totalVerseCount": 176
+    },
+    {
+      "id": 5,
+      "bn": "আল মায়িদাহ",
+      "eng": "Al-Ma'idah",
+      "engMeaning": "The Table Spread",
+      "bnMeaning": "খাদ্য পরিবেশিত টেবিল",
+      "Makkhi": false,
+      "totalVerseCount": 120
+    },
+    {
+      "id": 6,
+      "bn": "আল আনআম",
+      "eng": "Al-An'am",
+      "engMeaning": "The Cattle",
+      "bnMeaning": "গৃহপালিত পশু",
+      "Makkhi": true,
+      "totalVerseCount": 165
+    },
+    {
+      "id": 7,
+      "bn": "আল আ'রাফ",
+      "eng": "Al-A'raf",
+      "engMeaning": "The Heights",
+      "bnMeaning": "উচু স্থান",
+      "Makkhi": true,
+      "totalVerseCount": 206
+    },
+    {
+      "id": 8,
+      "bn": "আল-আনফাল",
+      "eng": "Al-Anfal",
+      "engMeaning": "The Spoils of War",
+      "bnMeaning": "যুদ্ধ-লব্ধ ধনসম্পদ",
+      "Makkhi": false,
+      "totalVerseCount": 75
+    },
+    {
+      "id": 9,
+      "bn": "আত তাওবাহ",
+      "eng": "At-Tawbah",
+      "engMeaning": "The Repentance",
+      "bnMeaning": "অনুশোচনা",
+      "Makkhi": false,
+      "totalVerseCount": 129
+    },
+    {
+      "id": 10,
+      "bn": "ইউনুস",
+      "eng": "Yunus",
+      "engMeaning": "Jonah",
+      "bnMeaning": "নবী ইউনুস",
+      "Makkhi": true,
+      "totalVerseCount": 109
+    },
+    {
+      "id": 11,
+      "bn": "হুদ",
+      "eng": "Hud",
+      "engMeaning": "Hud",
+      "bnMeaning": "নবী হুদ",
+      "Makkhi": true,
+      "totalVerseCount": 123
+    },
+    {
+      "id": 12,
+      "bn": "ইউসূফ",
+      "eng": "Yusuf",
+      "engMeaning": "Joseph",
+      "bnMeaning": "নবী ইউসুফ",
+      "Makkhi": true,
+      "totalVerseCount": 111
+    },
+    {
+      "id": 13,
+      "bn": "রা'দ",
+      "eng": "Ar-Ra'd",
+      "engMeaning": "The Thunder",
+      "bnMeaning": "বজ্রপাত",
+      "Makkhi": false,
+      "totalVerseCount": 43
+    },
+    {
+      "id": 14,
+      "bn": "ইব্রাহীম",
+      "eng": "Ibrahim",
+      "engMeaning": "Abraham",
+      "bnMeaning": "নবী ইবরাহীম",
+      "Makkhi": true,
+      "totalVerseCount": 52
+    },
+    {
+      "id": 15,
+      "bn": "হিজর",
+      "eng": "Al-Hijr",
+      "engMeaning": "The Rocky Tract",
+      "bnMeaning": "পাথুরে পাহাড়",
+      "Makkhi": true,
+      "totalVerseCount": 99
+    },
+    {
+      "id": 16,
+      "bn": "নাহল",
+      "eng": "An-Nahl",
+      "engMeaning": "The Bee",
+      "bnMeaning": "মৌমাছি",
+      "Makkhi": true,
+      "totalVerseCount": 128
+    },
+    {
+      "id": 17,
+      "bn": "বনী ইসরাঈল",
+      "eng": "Al-Isra",
+      "engMeaning": "The Night Journey",
+      "bnMeaning": "ইহুদি জাতি",
+      "Makkhi": true,
+      "totalVerseCount": 111
+    },
+    {
+      "id": 18,
+      "bn": "কাহফ",
+      "eng": "Al-Kahf",
+      "engMeaning": "The Cave",
+      "bnMeaning": "গুহা",
+      "Makkhi": true,
+      "totalVerseCount": 110
+    },
+    {
+      "id": 19,
+      "bn": "মারইয়াম",
+      "eng": "Maryam",
+      "engMeaning": "Mary",
+      "bnMeaning": "মারইয়াম (ঈসা নবীর মা)",
+      "Makkhi": true,
+      "totalVerseCount": 98
+    },
+    {
+      "id": 20,
+      "bn": "ত্বোয়া-হা",
+      "eng": "Taha",
+      "engMeaning": "Ta-Ha",
+      "bnMeaning": "ত়া হা",
+      "Makkhi": true,
+      "totalVerseCount": 135
+    },
+    {
+      "id": 21,
+      "bn": "আম্বিয়া",
+      "eng": "Al-Anbya",
+      "engMeaning": "The Prophets",
+      "bnMeaning": "নবীগণ",
+      "Makkhi": true,
+      "totalVerseCount": 112
+    },
+    {
+      "id": 22,
+      "bn": "হাজ্জ্ব",
+      "eng": "Al-Hajj",
+      "engMeaning": "The Pilgrimage",
+      "bnMeaning": "হ়াজ্জ",
+      "Makkhi": false,
+      "totalVerseCount": 78
+    },
+    {
+      "id": 23,
+      "bn": "আল মু'মিনূন",
+      "eng": "Al-Mu'minun",
+      "engMeaning": "The Believers",
+      "bnMeaning": "বিশ্বাসী",
+      "Makkhi": true,
+      "totalVerseCount": 118
+    },
+    {
+      "id": 24,
+      "bn": "আন-নূর",
+      "eng": "An-Nur",
+      "engMeaning": "The Light",
+      "bnMeaning": "আলো",
+      "Makkhi": false,
+      "totalVerseCount": 64
+    },
+    {
+      "id": 25,
+      "bn": "আল-ফুরকান",
+      "eng": "Al-Furqan",
+      "engMeaning": "The Criterion",
+      "bnMeaning": "মানদণ্ড",
+      "Makkhi": true,
+      "totalVerseCount": 77
+    },
+    {
+      "id": 26,
+      "bn": "আশ-শো'আরা",
+      "eng": "Ash-Shu'ara",
+      "engMeaning": "The Poets",
+      "bnMeaning": "কবি",
+      "Makkhi": true,
+      "totalVerseCount": 227
+    },
+    {
+      "id": 27,
+      "bn": "নমল",
+      "eng": "An-Naml",
+      "engMeaning": "The Ant",
+      "bnMeaning": "পিঁপড়া",
+      "Makkhi": true,
+      "totalVerseCount": 93
+    },
+    {
+      "id": 28,
+      "bn": "আল কাসাস",
+      "eng": "Al-Qasas",
+      "engMeaning": "The Stories",
+      "bnMeaning": "কাহিনি",
+      "Makkhi": true,
+      "totalVerseCount": 88
+    },
+    {
+      "id": 29,
+      "bn": "আল আনকাবুত",
+      "eng": "Al-'Ankabut",
+      "engMeaning": "The Spider",
+      "bnMeaning": "মাকড়শা",
+      "Makkhi": true,
+      "totalVerseCount": 69
+    },
+    {
+      "id": 30,
+      "bn": "আর-রূম",
+      "eng": "Ar-Rum",
+      "engMeaning": "The Romans",
+      "bnMeaning": "রোমান জাতি",
+      "Makkhi": true,
+      "totalVerseCount": 60
+    },
+    {
+      "id": 31,
+      "bn": "লোকমান",
+      "eng": "Luqman",
+      "engMeaning": "Luqman",
+      "bnMeaning": "এক জ্ঞানী ব্যাক্তি",
+      "Makkhi": true,
+      "totalVerseCount": 34
+    },
+    {
+      "id": 32,
+      "bn": "সেজদাহ",
+      "eng": "As-Sajdah",
+      "engMeaning": "The Prostration",
+      "bnMeaning": "সিজদা",
+      "Makkhi": true,
+      "totalVerseCount": 30
+    },
+    {
+      "id": 33,
+      "bn": "আল আহযাব",
+      "eng": "Al-Ahzab",
+      "engMeaning": "The Combined Forces",
+      "bnMeaning": "জোট",
+      "Makkhi": false,
+      "totalVerseCount": 73
+    },
+    {
+      "id": 34,
+      "bn": "সাবা",
+      "eng": "Saba",
+      "engMeaning": "Sheba",
+      "bnMeaning": "রানী সাবা",
+      "Makkhi": true,
+      "totalVerseCount": 54
+    },
+    {
+      "id": 35,
+      "bn": "ফাতির",
+      "eng": "Fatir",
+      "engMeaning": "Originator",
+      "bnMeaning": "আদি স্রষ্টা",
+      "Makkhi": true,
+      "totalVerseCount": 45
+    },
+    {
+      "id": 36,
+      "bn": "ইয়াসীন",
+      "eng": "Ya-Sin",
+      "engMeaning": "Ya Sin",
+      "bnMeaning": "ইয়াসীন",
+      "Makkhi": true,
+      "totalVerseCount": 83
+    },
+    {
+      "id": 37,
+      "bn": "আস-সাফফাত",
+      "eng": "As-Saffat",
+      "engMeaning": "Those who set the Ranks",
+      "bnMeaning": "সারিবদ্ধভাবে দাঁড়ানো",
+      "Makkhi": true,
+      "totalVerseCount": 182
+    },
+    {
+      "id": 38,
+      "bn": "ছোয়াদ",
+      "eng": "Sad",
+      "engMeaning": "The Letter \"Saad\"",
+      "bnMeaning": "আরবি বর্ণ সাদ",
+      "Makkhi": true,
+      "totalVerseCount": 88
+    },
+    {
+      "id": 39,
+      "bn": "আল-যুমার",
+      "eng": "Az-Zumar",
+      "engMeaning": "The Troops",
+      "bnMeaning": "দলবদ্ধ জনতা",
+      "Makkhi": true,
+      "totalVerseCount": 75
+    },
+    {
+      "id": 40,
+      "bn": "আল-মু'মিন",
+      "eng": "Ghafir",
+      "engMeaning": "The Forgiver",
+      "bnMeaning": "ক্ষমাকারী",
+      "Makkhi": true,
+      "totalVerseCount": 85
+    },
+    {
+      "id": 41,
+      "bn": "হা-মীম সেজদাহ",
+      "eng": "Fussilat",
+      "engMeaning": "Explained in Detail",
+      "bnMeaning": "সুস্পষ্ট বিবরণ",
+      "Makkhi": true,
+      "totalVerseCount": 54
+    },
+    {
+      "id": 42,
+      "bn": "আশ-শুরা",
+      "eng": "Ash-Shuraa",
+      "engMeaning": "The Consultation",
+      "bnMeaning": "পরামর্শ",
+      "Makkhi": true,
+      "totalVerseCount": 53
+    },
+    {
+      "id": 43,
+      "bn": "যুখরুফ",
+      "eng": "Az-Zukhruf",
+      "engMeaning": "The Ornaments of Gold",
+      "bnMeaning": "সোনাদানা",
+      "Makkhi": true,
+      "totalVerseCount": 89
+    },
+    {
+      "id": 44,
+      "bn": "আদ দোখান",
+      "eng": "Ad-Dukhan",
+      "engMeaning": "The Smoke",
+      "bnMeaning": "ধোঁয়া",
+      "Makkhi": true,
+      "totalVerseCount": 59
+    },
+    {
+      "id": 45,
+      "bn": "আল জাসিয়া",
+      "eng": "Al-Jathiyah",
+      "engMeaning": "The Crouching",
+      "bnMeaning": "নতজানু",
+      "Makkhi": true,
+      "totalVerseCount": 37
+    },
+    {
+      "id": 46,
+      "bn": "আল আহক্বাফ",
+      "eng": "Al-Ahqaf",
+      "engMeaning": "The Wind-Curved Sandhills",
+      "bnMeaning": "বালুর পাহাড়",
+      "Makkhi": true,
+      "totalVerseCount": 35
+    },
+    {
+      "id": 47,
+      "bn": "মুহাম্মদ",
+      "eng": "Muhammad",
+      "engMeaning": "Muhammad",
+      "bnMeaning": "নবী মুহাম্মদ",
+      "Makkhi": false,
+      "totalVerseCount": 38
+    },
+    {
+      "id": 48,
+      "bn": "আল ফাতহ",
+      "eng": "Al-Fath",
+      "engMeaning": "The Victory",
+      "bnMeaning": "বিজয়",
+      "Makkhi": false,
+      "totalVerseCount": 29
+    },
+    {
+      "id": 49,
+      "bn": "আল হুজরাত",
+      "eng": "Al-Hujurat",
+      "engMeaning": "The Rooms",
+      "bnMeaning": "আবাস",
+      "Makkhi": false,
+      "totalVerseCount": 18
+    },
+    {
+      "id": 50,
+      "bn": "ক্বাফ",
+      "eng": "Qaf",
+      "engMeaning": "The Letter \"Qaf\"",
+      "bnMeaning": "কাফ",
+      "Makkhi": true,
+      "totalVerseCount": 45
+    },
+    {
+      "id": 51,
+      "bn": "আয-যারিয়াত",
+      "eng": "Adh-Dhariyat",
+      "engMeaning": "The Winnowing Winds",
+      "bnMeaning": "বিক্ষেপকারী বাতাস",
+      "Makkhi": true,
+      "totalVerseCount": 60
+    },
+    {
+      "id": 52,
+      "bn": "আত্ব তূর",
+      "eng": "At-Tur",
+      "engMeaning": "The Mount",
+      "bnMeaning": "পাহাড়",
+      "Makkhi": true,
+      "totalVerseCount": 49
+    },
+    {
+      "id": 53,
+      "bn": "আন-নাজম",
+      "eng": "An-Najm",
+      "engMeaning": "The Star",
+      "bnMeaning": "তারা",
+      "Makkhi": true,
+      "totalVerseCount": 62
+    },
+    {
+      "id": 54,
+      "bn": "আল ক্বামার",
+      "eng": "Al-Qamar",
+      "engMeaning": "The Moon",
+      "bnMeaning": "চাঁদ",
+      "Makkhi": true,
+      "totalVerseCount": 55
+    },
+    {
+      "id": 55,
+      "bn": "আর রহমান",
+      "eng": "Ar-Rahman",
+      "engMeaning": "The Beneficent",
+      "bnMeaning": "পরম করুণাময়",
+      "Makkhi": false,
+      "totalVerseCount": 78
+    },
+    {
+      "id": 56,
+      "bn": "আল ওয়াক্বিয়া",
+      "eng": "Al-Waqi'ah",
+      "engMeaning": "The Inevitable",
+      "bnMeaning": "নিশ্চিত ঘটনা",
+      "Makkhi": true,
+      "totalVerseCount": 96
+    },
+    {
+      "id": 57,
+      "bn": "আল হাদীদ",
+      "eng": "Al-Hadid",
+      "engMeaning": "The Iron",
+      "bnMeaning": "লোহা",
+      "Makkhi": false,
+      "totalVerseCount": 29
+    },
+    {
+      "id": 58,
+      "bn": "আল মুজাদালাহ",
+      "eng": "Al-Mujadila",
+      "engMeaning": "The Pleading Woman",
+      "bnMeaning": "অনুযোগকারিণী",
+      "Makkhi": false,
+      "totalVerseCount": 22
+    },
+    {
+      "id": 59,
+      "bn": "আল হাশর",
+      "eng": "Al-Hashr",
+      "engMeaning": "The Exile",
+      "bnMeaning": "সমাবেশ",
+      "Makkhi": false,
+      "totalVerseCount": 24
+    },
+    {
+      "id": 60,
+      "bn": "আল মুমতাহিনা",
+      "eng": "Al-Mumtahanah",
+      "engMeaning": "She that is to be examined",
+      "bnMeaning": "নারী, যাকে পরীক্ষা করা হবে",
+      "Makkhi": false,
+      "totalVerseCount": 13
+    },
+    {
+      "id": 61,
+      "bn": "আছ-ছফ",
+      "eng": "As-Saf",
+      "engMeaning": "The Ranks",
+      "bnMeaning": "সারিবদ্ধ সৈন্যদল",
+      "Makkhi": false,
+      "totalVerseCount": 14
+    },
+    {
+      "id": 62,
+      "bn": "আল জুমুআহ",
+      "eng": "Al-Jumu'ah",
+      "engMeaning": "The Congregation, Friday",
+      "bnMeaning": "সম্মেলন/শুক্রবার",
+      "Makkhi": false,
+      "totalVerseCount": 11
+    },
+    {
+      "id": 63,
+      "bn": "মুনাফিকুন",
+      "eng": "Al-Munafiqun",
+      "engMeaning": "The Hypocrites",
+      "bnMeaning": "ভণ্ড বিশ্বাসী",
+      "Makkhi": false,
+      "totalVerseCount": 11
+    },
+    {
+      "id": 64,
+      "bn": "আত-তাগাবুন",
+      "eng": "At-Taghabun",
+      "engMeaning": "The Mutual Disillusion",
+      "bnMeaning": "মোহ অপসারণ",
+      "Makkhi": false,
+      "totalVerseCount": 18
+    },
+    {
+      "id": 65,
+      "bn": "আত্ব-ত্বালাক্ব",
+      "eng": "At-Talaq",
+      "engMeaning": "The Divorce",
+      "bnMeaning": "তালাক",
+      "Makkhi": false,
+      "totalVerseCount": 12
+    },
+    {
+      "id": 66,
+      "bn": "আত-তাহরীম",
+      "eng": "At-Tahrim",
+      "engMeaning": "The Prohibition",
+      "bnMeaning": "নিষিদ্ধকরণ",
+      "Makkhi": false,
+      "totalVerseCount": 12
+    },
+    {
+      "id": 67,
+      "bn": "আল মুলক",
+      "eng": "Al-Mulk",
+      "engMeaning": "The Sovereignty",
+      "bnMeaning": "সার্বভৌম কর্তৃত্ব",
+      "Makkhi": true,
+      "totalVerseCount": 30
+    },
+    {
+      "id": 68,
+      "bn": "আল কলম",
+      "eng": "Al-Qalam",
+      "engMeaning": "The Pen",
+      "bnMeaning": "কলম",
+      "Makkhi": true,
+      "totalVerseCount": 52
+    },
+    {
+      "id": 69,
+      "bn": "আল হাক্বক্বাহ",
+      "eng": "Al-Haqqah",
+      "engMeaning": "The Reality",
+      "bnMeaning": "নিশ্চিত সত্য",
+      "Makkhi": true,
+      "totalVerseCount": 52
+    },
+    {
+      "id": 70,
+      "bn": "আল মা'আরিজ",
+      "eng": "Al-Ma'arij",
+      "engMeaning": "The Ascending Stairways",
+      "bnMeaning": "উন্নয়নের সোপান",
+      "Makkhi": true,
+      "totalVerseCount": 44
+    },
+    {
+      "id": 71,
+      "bn": "নূহ",
+      "eng": "Nuh",
+      "engMeaning": "Noah",
+      "bnMeaning": "নবী নূহ",
+      "Makkhi": true,
+      "totalVerseCount": 28
+    },
+    {
+      "id": 72,
+      "bn": "আল জিন",
+      "eng": "Al-Jinn",
+      "engMeaning": "The Jinn",
+      "bnMeaning": "জিন সম্প্রদায়",
+      "Makkhi": true,
+      "totalVerseCount": 28
+    },
+    {
+      "id": 73,
+      "bn": "মুযযামমিল",
+      "eng": "Al-Muzzammil",
+      "engMeaning": "The Enshrouded One",
+      "bnMeaning": "বস্ত্রাচ্ছাদনকারী",
+      "Makkhi": true,
+      "totalVerseCount": 20
+    },
+    {
+      "id": 74,
+      "bn": "আল মুদ্দাসসির",
+      "eng": "Al-Muddaththir",
+      "engMeaning": "The Cloaked One",
+      "bnMeaning": "পোশাক পরিহিত",
+      "Makkhi": true,
+      "totalVerseCount": 56
+    },
+    {
+      "id": 75,
+      "bn": "আল ক্বেয়ামাহ",
+      "eng": "Al-Qiyamah",
+      "engMeaning": "The Resurrection",
+      "bnMeaning": "পুনরুত্থান",
+      "Makkhi": true,
+      "totalVerseCount": 40
+    },
+    {
+      "id": 76,
+      "bn": "আদ-দাহর",
+      "eng": "Al-Insan",
+      "engMeaning": "The Man",
+      "bnMeaning": "মানবজাতি",
+      "Makkhi": false,
+      "totalVerseCount": 31
+    },
+    {
+      "id": 77,
+      "bn": "আল মুরসালাত",
+      "eng": "Al-Mursalat",
+      "engMeaning": "The Emissaries",
+      "bnMeaning": "প্রেরিত পুরুষ",
+      "Makkhi": true,
+      "totalVerseCount": 50
+    },
+    {
+      "id": 78,
+      "bn": "আন-নাবা",
+      "eng": "An-Naba",
+      "engMeaning": "The Tidings",
+      "bnMeaning": "মহাসংবাদ",
+      "Makkhi": true,
+      "totalVerseCount": 40
+    },
+    {
+      "id": 79,
+      "bn": "আন-নযিআ'ত",
+      "eng": "An-Nazi'at",
+      "engMeaning": "Those who drag forth",
+      "bnMeaning": "প্রচেষ্টাকারী",
+      "Makkhi": true,
+      "totalVerseCount": 46
+    },
+    {
+      "id": 80,
+      "bn": "আবাসা",
+      "eng": "'Abasa",
+      "engMeaning": "He Frowned",
+      "bnMeaning": "সে ভ্রু কুঁচকালো",
+      "Makkhi": true,
+      "totalVerseCount": 42
+    },
+    {
+      "id": 81,
+      "bn": "আত-তাকভীর",
+      "eng": "At-Takwir",
+      "engMeaning": "The Overthrowing",
+      "bnMeaning": "অন্ধকারাচ্ছন্ন",
+      "Makkhi": true,
+      "totalVerseCount": 29
+    },
+    {
+      "id": 82,
+      "bn": "আল ইনফিতার",
+      "eng": "Al-Infitar",
+      "engMeaning": "The Cleaving",
+      "bnMeaning": "বিদীর্ণ করা",
+      "Makkhi": true,
+      "totalVerseCount": 19
+    },
+    {
+      "id": 83,
+      "bn": "আত-তাতফীফ",
+      "eng": "Al-Mutaffifin",
+      "engMeaning": "The Defrauding",
+      "bnMeaning": "প্রতারণা করা",
+      "Makkhi": true,
+      "totalVerseCount": 36
+    },
+    {
+      "id": 84,
+      "bn": "আল ইনশিক্বাক্ব",
+      "eng": "Al-Inshiqaq",
+      "engMeaning": "The Sundering",
+      "bnMeaning": "খণ্ড-বিখণ্ডকরণ",
+      "Makkhi": true,
+      "totalVerseCount": 25
+    },
+    {
+      "id": 85,
+      "bn": "আল বুরূজ",
+      "eng": "Al-Buruj",
+      "engMeaning": "The Mansions of the Stars",
+      "bnMeaning": "নক্ষত্রপুঞ্জ",
+      "Makkhi": true,
+      "totalVerseCount": 22
+    },
+    {
+      "id": 86,
+      "bn": "আত্ব-তারিক্ব",
+      "eng": "At-Tariq",
+      "engMeaning": "The Nightcommer",
+      "bnMeaning": "রাতের আগন্তুক",
+      "Makkhi": true,
+      "totalVerseCount": 17
+    },
+    {
+      "id": 87,
+      "bn": "আল আ'লা",
+      "eng": "Al-A'la",
+      "engMeaning": "The Most High",
+      "bnMeaning": "সর্বোন্নত",
+      "Makkhi": true,
+      "totalVerseCount": 19
+    },
+    {
+      "id": 88,
+      "bn": "আল গাশিয়াহ",
+      "eng": "Al-Ghashiyah",
+      "engMeaning": "The Overwhelming",
+      "bnMeaning": "বিহ্বলকর ঘটনা",
+      "Makkhi": true,
+      "totalVerseCount": 26
+    },
+    {
+      "id": 89,
+      "bn": "আল ফজর",
+      "eng": "Al-Fajr",
+      "engMeaning": "The Dawn",
+      "bnMeaning": "ভোরবেলা",
+      "Makkhi": true,
+      "totalVerseCount": 30
+    },
+    {
+      "id": 90,
+      "bn": "আল বালাদ",
+      "eng": "Al-Balad",
+      "engMeaning": "The City",
+      "bnMeaning": "নগর",
+      "Makkhi": true,
+      "totalVerseCount": 20
+    },
+    {
+      "id": 91,
+      "bn": "আশ-শামস",
+      "eng": "Ash-Shams",
+      "engMeaning": "The Sun",
+      "bnMeaning": "সূর্য",
+      "Makkhi": true,
+      "totalVerseCount": 15
+    },
+    {
+      "id": 92,
+      "bn": "আল লায়ল",
+      "eng": "Al-Layl",
+      "engMeaning": "The Night",
+      "bnMeaning": "রাত",
+      "Makkhi": true,
+      "totalVerseCount": 21
+    },
+    {
+      "id": 93,
+      "bn": "আদ্ব-দ্বোহা",
+      "eng": "Ad-Duhaa",
+      "engMeaning": "The Morning Hours",
+      "bnMeaning": "পূর্বাহ্নের সুর্যকিরণ",
+      "Makkhi": true,
+      "totalVerseCount": 11
+    },
+    {
+      "id": 94,
+      "bn": "ইনশিরাহ",
+      "eng": "Ash-Sharh",
+      "engMeaning": "The Relief",
+      "bnMeaning": "বক্ষ প্রশস্তকরণ",
+      "Makkhi": true,
+      "totalVerseCount": 8
+    },
+    {
+      "id": 95,
+      "bn": "ত্বীন",
+      "eng": "At-Tin",
+      "engMeaning": "The Fig",
+      "bnMeaning": "ডুমুর",
+      "Makkhi": true,
+      "totalVerseCount": 8
+    },
+    {
+      "id": 96,
+      "bn": "আলাক",
+      "eng": "Al-'Alaq",
+      "engMeaning": "The Clot",
+      "bnMeaning": "রক্তপিণ্ড",
+      "Makkhi": true,
+      "totalVerseCount": 19
+    },
+    {
+      "id": 97,
+      "bn": "কদর",
+      "eng": "Al-Qadr",
+      "engMeaning": "The Power",
+      "bnMeaning": "মহিমান্বিত",
+      "Makkhi": true,
+      "totalVerseCount": 5
+    },
+    {
+      "id": 98,
+      "bn": "বাইয়্যিনাহ",
+      "eng": "Al-Bayyinah",
+      "engMeaning": "The Clear Proof",
+      "bnMeaning": "প্রমাণ",
+      "Makkhi": false,
+      "totalVerseCount": 8
+    },
+    {
+      "id": 99,
+      "bn": "যিলযাল",
+      "eng": "Az-Zalzalah",
+      "engMeaning": "The Earthquake",
+      "bnMeaning": "ভূমিকম্প",
+      "Makkhi": false,
+      "totalVerseCount": 8
+    },
+    {
+      "id": 100,
+      "bn": "আদিয়াত",
+      "eng": "Al-'Adiyat",
+      "engMeaning": "The Courser",
+      "bnMeaning": "অভিযানকারী",
+      "Makkhi": true,
+      "totalVerseCount": 11
+    },
+    {
+      "id": 101,
+      "bn": "কারেয়া",
+      "eng": "Al-Qari'ah",
+      "engMeaning": "The Calamity",
+      "bnMeaning": "মহাসংকট",
+      "Makkhi": true,
+      "totalVerseCount": 11
+    },
+    {
+      "id": 102,
+      "bn": "তাকাসূর",
+      "eng": "At-Takathur",
+      "engMeaning": "The Rivalry in world increase",
+      "bnMeaning": "প্রাচুর্যের প্রতিযোগিতা",
+      "Makkhi": true,
+      "totalVerseCount": 8
+    },
+    {
+      "id": 103,
+      "bn": "আসর",
+      "eng": "Al-'Asr",
+      "engMeaning": "The Declining Day",
+      "bnMeaning": "সময়",
+      "Makkhi": true,
+      "totalVerseCount": 3
+    },
+    {
+      "id": 104,
+      "bn": "হুমাযাহ",
+      "eng": "Al-Humazah",
+      "engMeaning": "The Traducer",
+      "bnMeaning": "পরনিন্দাকারী",
+      "Makkhi": true,
+      "totalVerseCount": 9
+    },
+    {
+      "id": 105,
+      "bn": "আল ফীল",
+      "eng": "Al-Fil",
+      "engMeaning": "The Elephant",
+      "bnMeaning": "হাতি",
+      "Makkhi": true,
+      "totalVerseCount": 5
+    },
+    {
+      "id": 106,
+      "bn": "কুরাইশ",
+      "eng": "Quraysh",
+      "engMeaning": "Quraysh",
+      "bnMeaning": "কুরাইশ গোত্র",
+      "Makkhi": true,
+      "totalVerseCount": 4
+    },
+    {
+      "id": 107,
+      "bn": "মাঊন",
+      "eng": "Al-Ma'un",
+      "engMeaning": "The Small kindnesses",
+      "bnMeaning": "সাহায্য সহায়তা",
+      "Makkhi": true,
+      "totalVerseCount": 7
+    },
+    {
+      "id": 108,
+      "bn": "কাওসার",
+      "eng": "Al-Kawthar",
+      "engMeaning": "The Abundance",
+      "bnMeaning": "কাউসার/প্রাচুর্য",
+      "Makkhi": true,
+      "totalVerseCount": 3
+    },
+    {
+      "id": 109,
+      "bn": "কাফিরুন",
+      "eng": "Al-Kafirun",
+      "engMeaning": "The Disbelievers",
+      "bnMeaning": "অবিশ্বাসী",
+      "Makkhi": true,
+      "totalVerseCount": 6
+    },
+    {
+      "id": 110,
+      "bn": "আন নাসর",
+      "eng": "An-Nasr",
+      "engMeaning": "The Divine Support",
+      "bnMeaning": "সাহায্য",
+      "Makkhi": false,
+      "totalVerseCount": 3
+    },
+    {
+      "id": 111,
+      "bn": "লাহাব",
+      "eng": "Al-Masad",
+      "engMeaning": "The Palm Fiber",
+      "bnMeaning": "খেজুরের পাকানো (রশি)",
+      "Makkhi": true,
+      "totalVerseCount": 5
+    },
+    {
+      "id": 112,
+      "bn": "আল ইখলাস",
+      "eng": "Al-Ikhlas",
+      "engMeaning": "The Sincerity",
+      "bnMeaning": "আন্তরিকতা",
+      "Makkhi": true,
+      "totalVerseCount": 4
+    },
+    {
+      "id": 113,
+      "bn": "আল ফালাক্ব",
+      "eng": "Al-Falaq",
+      "engMeaning": "The Daybreak",
+      "bnMeaning": "নিশিভোর",
+      "Makkhi": true,
+      "totalVerseCount": 5
+    },
+    {
+      "id": 114,
+      "bn": "আন নাস",
+      "eng": "An-Nas",
+      "engMeaning": "Mankind",
+      "bnMeaning": "মানুষ জাতি",
+      "Makkhi": true,
+      "totalVerseCount": 6
+    }
+  ]
