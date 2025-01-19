@@ -1,0 +1,23 @@
+{
+    "id": 26,
+    "bn": "আশ-শো'আরা",
+    "eng": "Ash-Shu'ara",
+    "engMeaning": "The Poets",
+    "bnMeaning": "কবি",
+    "Makkhi": true,
+    "totalVerseCount": 227,
+    "audioSrc": [
+      {
+        "name": "yasser-al-dossari-old",
+        "src": "https://cdn.jsdelivr.net/gh/sahedencrypted/qapi@main/fvaudio/mominon-dosari-old.mp3",
+        "captionArb": []
+      },
+      {
+        "name": "yasser-al-dossari",
+        "src": "https://media.blubrry.com/muslim_central_quran/podcasts.qurancentral.com/yasser-al-dossari/yasser-al-dossari-023.mp3"
+      }
+    ],
+    "allverse":[
+
+    ]
+  }
